@@ -7,6 +7,6 @@ AWS Lambda 上の `Alexa.py` を Alexa Skill から呼び出し、EC2 を安全�
 
 設定方法などの詳細は、以下の記事をご参照ください。
 
-<a href="https://qiita.com/AyaKunisawa/items/5356ca7d56ba9f31477f" target="_blank">「声」でクラウドを操れたから、もうマウスはいらない</a>
+[「声」でクラウドを操れたから、もうマウスはいらない](https://qiita.com/AyaKunisawa/items/5356ca7d56ba9f31477f)
 
 
